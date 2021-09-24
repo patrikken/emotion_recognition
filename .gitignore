@@ -1,0 +1,5 @@
+.Resources/ignored
+.Resources/Faces/Validation/Happy/*
+.Resources/Faces/Validation/Normal/*
+.Resources/Faces/Validation/Surprised/*
+.Resources/Faces/Validation/Sad/*
